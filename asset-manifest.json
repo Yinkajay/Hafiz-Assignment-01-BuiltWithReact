@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hafiz-Assignment-01-BuiltWithReact/static/css/main.b6ead679.css",
-    "main.js": "/Hafiz-Assignment-01-BuiltWithReact/static/js/main.ff435d9f.js",
-    "static/js/787.5557720b.chunk.js": "/Hafiz-Assignment-01-BuiltWithReact/static/js/787.5557720b.chunk.js",
-    "index.html": "/Hafiz-Assignment-01-BuiltWithReact/index.html",
-    "main.b6ead679.css.map": "/Hafiz-Assignment-01-BuiltWithReact/static/css/main.b6ead679.css.map",
-    "main.ff435d9f.js.map": "/Hafiz-Assignment-01-BuiltWithReact/static/js/main.ff435d9f.js.map",
-    "787.5557720b.chunk.js.map": "/Hafiz-Assignment-01-BuiltWithReact/static/js/787.5557720b.chunk.js.map"
+    "main.css": "/Hafiz-Junaid-Adeyinka-assignment-01/static/css/main.b6ead679.css",
+    "main.js": "/Hafiz-Junaid-Adeyinka-assignment-01/static/js/main.3f552277.js",
+    "static/js/787.5557720b.chunk.js": "/Hafiz-Junaid-Adeyinka-assignment-01/static/js/787.5557720b.chunk.js",
+    "index.html": "/Hafiz-Junaid-Adeyinka-assignment-01/index.html",
+    "main.b6ead679.css.map": "/Hafiz-Junaid-Adeyinka-assignment-01/static/css/main.b6ead679.css.map",
+    "main.3f552277.js.map": "/Hafiz-Junaid-Adeyinka-assignment-01/static/js/main.3f552277.js.map",
+    "787.5557720b.chunk.js.map": "/Hafiz-Junaid-Adeyinka-assignment-01/static/js/787.5557720b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6ead679.css",
-    "static/js/main.ff435d9f.js"
+    "static/js/main.3f552277.js"
   ]
 }
